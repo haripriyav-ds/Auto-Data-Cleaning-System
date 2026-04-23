@@ -24,6 +24,6 @@ Titanic Dataset (Kaggle)
 2. Update file path in code
 3. Run the Python script
 
-## ?? Output
+## Output
 - Cleaned dataset saved as CSV
 - Graphs showing data distribution
